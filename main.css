@@ -1,0 +1,90 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    background-image: radial-gradient(circle, #234578, #193b67, #103157, #072747, #021d37);
+}
+header{
+    margin: 50px 20px;
+    text-align: center;
+    box-shadow: 3px 3px 3px grey;
+    background: white;
+}
+h1{
+    font-size: 30px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+}
+h2{
+    color: azure;
+    margin: 20px 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    text-align: center;
+}
+button{
+    padding: 2px;
+    margin: 2px;
+}
+label{
+    color: white
+}
+table{
+    margin: 10px;
+    box-shadow: 3px 3px 3px grey;
+    width: 100%;
+    table-layout: auto;
+    overflow-x: auto;
+}
+th{
+  padding: 20px 15px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 14px;
+  color: azure;
+  text-transform: uppercase;
+}
+td{
+  padding: 20px 15px;
+  font-size: 12px;
+  font-weight: 500;
+  font-size: 14px;
+  color: black;
+  border-bottom: solid 1px black;
+}
+tr{
+    background-color: darkblue;
+}
+tr:nth-child(even){
+    background-color: lightblue;
+}
+tr:nth-child(odd){
+    background-color: white;
+}
+.header-div{
+    margin: 10px;
+    box-shadow: 3px 3px 3px grey;
+    background: white;
+}
+.table-div{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+#button-div{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
