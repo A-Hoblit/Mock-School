@@ -5,4 +5,4 @@ This project was done with a partner for CSUFs databases class.
 
 Schema
 
-![ER Schema drawio](https://user-images.githubusercontent.com/70081309/210119608-34cffb78-234a-4aba-92a3-6917a63010b3.png)
+![ER Schema drawio](https://user-images.githubusercontent.com/70081309/210119668-cba5dff1-d26b-4b47-b60f-5eb72cef3ac7.png)
